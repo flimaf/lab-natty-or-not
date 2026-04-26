@@ -17,8 +17,8 @@ Um e-book curto e visual que explica o que são Inteligências Artificiais Gener
 ## 🚀 Resultados
 Abaixo está a capa do meu e-book:
 
-![[Capa do e-book](https://github.com/flimaf/lab-natty-or-not/blob/main/Captura%20de%20tela%202026-04-26%20134214.png)](capa-ebook.png)  
-*(a imagem `capa-ebook.png` está dentro deste repositório)*
+![[https://github.com/flimaf/lab-natty-or-not/blob/main/Captura%20de%20tela%202026-04-26%20134214.png](capa-ebook.png)  
+*(a imagem `[https://github.com/flimaf/lab-natty-or-not/blob/main/Captura%20de%20tela%202026-04-26%20134214.png]` está dentro deste repositório)*
 
 Você pode baixar o e-book completo clicando aqui: [link para o PDF] (se você tiver hospedado em algum lugar, senão pode dizer que está disponível sob demanda).
 
